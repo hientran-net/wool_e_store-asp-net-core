@@ -1,5 +1,5 @@
-# wool_e_store-asp-net-core
-A simple ecommerce website using asp dotnet core 8.0 
+# WOOL ECOMMERCE STORE
+A simple ecommerce website using asp dotnet core 8.0.
 The wool_e_store-asp-net-core project is an e-commerce website specializing in wool-based products. 
 It is developed by two members with the following responsibilities.
 Technologies used:
